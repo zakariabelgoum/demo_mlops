@@ -2,7 +2,7 @@
 
 ### 1. Enable Cloud Services utilized in the lab environment:
 
-#### 1.1 Launch [Cloud Shell](https://cloud.google.com/shell/docs/launching-cloud-shell)
+#### 1.1 Launch cloud shell
 
 #### 1.2 Set your Project ID
 
