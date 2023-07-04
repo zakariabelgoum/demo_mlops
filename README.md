@@ -75,27 +75,17 @@ To provision the instance follow the [Create an new notebook instance](https://c
 After the instance is created, you can connect to [JupyterLab](https://jupyter.org/) IDE by clicking the *OPEN JUPYTERLAB* link in the [Vertex AI Notebooks Console](https://console.cloud.google.com/vertex-ai/notebooks/instances).
 
 
-### 4. Clone the lab repository
+### 4. Clone the repo
 
 In your **JupyterLab** instance, open a terminal and clone this repository in the `home` folder.
 ```
-cd
-git clone https://github.com/GoogleCloudPlatform/training-data-analyst.git
+git clone https://github.com/zakariabelgoum/demo_mlops.git
 ```
 
-### 5. Install the lab dependencies
+### 5. Install dependencies
 
 Run the following in the **JupyterLab** terminal to go to the `training-data-analyst/self-paced-labs/vertex-ai/vertex-ai-qwikstart` folder, then pip install `requirements.txt` to install lab dependencies:
 
 ```bash
-cd training-data-analyst/self-paced-labs/vertex-ai/vertex-ai-qwikstart
 pip install -U -r requirements.txt
 ```
-
-### 6. Navigate to lab notebook
-
-In your **JupyterLab** instance, navigate to __training-data-analyst__ > __self-paced-labs__ > __vertex-ai__ > __vertex-ai-qwikstart__, and open __lab_exercise.ipynb__.
-
-Open `lab_exercise.ipynb` to complete the lab. 
-
-Happy coding!
