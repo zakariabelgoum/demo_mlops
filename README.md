@@ -84,7 +84,6 @@ git clone https://github.com/zakariabelgoum/demo_mlops.git
 
 ### 5. Install dependencies
 
-Run the following in the **JupyterLab** terminal to go to the `training-data-analyst/self-paced-labs/vertex-ai/vertex-ai-qwikstart` folder, then pip install `requirements.txt` to install lab dependencies:
 
 ```bash
 pip install -U -r requirements.txt
